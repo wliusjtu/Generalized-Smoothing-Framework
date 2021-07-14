@@ -6,6 +6,7 @@ This is the released code for the following papers:
 
 *"A generalized framework for edge-preserving and structure-preserving image smoothing""*, Wei Liu, Pingping Zhang, Yinjie Lei, Xiaolin Huang, Jie Yang and Ian Reid. Proceedings of the AAAI Conference on Artificial Intelligence, 2020.
 
+Run the "mexFile.m" function in "funs" folder to compile the code before running the example code.
 
 **Related Work:**
 1. *"Semi-global weighted least squares in image filtering.", Wei Liu, Xiaogang Chen, Chuanhua Shen, Zhi Liu, and Jie Yang. In ICCV 2017.* [Code](https://github.com/wliusjtu/Semi-Global-Weighted-Least-Squares-in-Image-Filtering)
