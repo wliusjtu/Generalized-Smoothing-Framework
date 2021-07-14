@@ -7,6 +7,7 @@ This is the released code for the following papers:
 *"A generalized framework for edge-preserving and structure-preserving image smoothing""*, Wei Liu, Pingping Zhang, Yinjie Lei, Xiaolin Huang, Jie Yang and Ian Reid. Proceedings of the AAAI Conference on Artificial Intelligence, 2020.
 
 **Note:** 
+
 Run the "mexFile.m" function in the "funs" folder to compile the code before running the example code.
 
 **Related Work:**
