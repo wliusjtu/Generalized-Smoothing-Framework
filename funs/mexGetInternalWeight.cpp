@@ -76,11 +76,11 @@ void mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
         {
             cenCoor = j * rowNum + i; // central pixel coordinate
             
-            for(t = - rData; t <= rData; t+=stride)
+            for(t = - rData; t <= rData; t++)
             {
                 if(((j + t) < 0) || ((j + t) > colNum - 1)) continue; // boundary
                  
-                for(s = - rData; s <= rData; s+=stride)
+                for(s = - rData; s <= rData; s++)
                 {
                     if(((i + s) < 0) || ((i + s) > rowNum - 1)) continue; // boudary
                     if((s == zero) && (t == zero)) continue;// slides to the central pixel 
