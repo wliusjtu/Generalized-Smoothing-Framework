@@ -2,7 +2,7 @@
  
 This is the released code for the following papers:
 
-*"A generalized framework for edge-preserving and structure-preserving image smoothing"*, Wei Liu, Pingping Zhang, Yinjie Lei, Xiaolin Huang, Jie Yang and Michael Ng. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper on arXiv]](https://arxiv.org/abs/2107.07058)
+*"A generalized framework for edge-preserving and structure-preserving image smoothing"*, Wei Liu, Pingping Zhang, Yinjie Lei, Xiaolin Huang, Jie Yang and Michael Ng. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. \[[paper on arXiv]](https://arxiv.org/abs/2107.07058)
 
 *"A generalized framework for edge-preserving and structure-preserving image smoothing""*, Wei Liu, Pingping Zhang, Yinjie Lei, Xiaolin Huang, Jie Yang and Ian Reid. Proceedings of the AAAI Conference on Artificial Intelligence, 2020. [paper on arXiv](https://arxiv.org/abs/1907.09642)
 
